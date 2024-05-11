@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @ScribbleTons and a web and mobile developer.
-- 👀 I’m interested in web and mobile applications with react, nextjs, react-native and vue.js.
-- I also build application with web3 technologies like solidity, ethers, web3, hardhat, etc.
-- 🌱 I’m always practicing javaScript everyday because it is elusive and primary language.
-- 💞️ I’m looking to collaborate on any application that would help the human race
-
-
-<!---
-- 📫 How to reach me on twitter [@Ugwuokemmanuel](https://twitter.com/Ugwuokemmanuel)
-ScribbleTons/ScribbleTons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ScribbleTons and a Software Engineer.
+- 👀 I am open to opportunities in mobile developments (Flutter | React-Native | iOS | Android)
+- 🦾 I'm also into web3 technologies like solidity, ethers, web3, hardhat, etc.
+- 🌱 I believe in making the world a better place for all from one variable to millions of LOC
+- 💞️ I’m open to collaborations as well.
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/ugwuoke-emmanuel/)
